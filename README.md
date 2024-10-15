@@ -4,6 +4,7 @@ Author: Peter Le
 - Used Ratatui TUI library for visualiztion.
 
 ## Usage
-```git clone https://github.com/Quarmire/chord```\n
-```cd ./chord```\n
+Make sure `rustc` and `cargo` are installed, then run:\
+```git clone https://github.com/Quarmire/chord```\
+```cd ./chord```\
 ```cargo run```
